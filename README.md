@@ -30,19 +30,18 @@ I enjoy turning ideas into working applications and continuously improving my un
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-`Java, Python, R, C++, C`  
+`Java` • `Python` • `R` • `C++` • `C`   
+`HTML` • `CSS`
 
 **Core Concepts:**  
-`Data Structures` • `Algorithms` • `OOP`  
+`Data Structures` • `Algorithms` • `OOP` • `REST APIs`    
+`Machine Learning` • `Image Processing`
 
 **Databases:**  
-`MySQL, SQLite`  
+`MySQL` • `SQLite`  
 
-**Web:**  
-`HTML` • `CSS` •   
-
-**Tools:**  
-`Git` • `GitHub`
+**Tools/Frameworks :**  
+`Git` • `GitHub` • `Django` •`React` •`Bootstrap`
 
 ---
 
