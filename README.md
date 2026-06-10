@@ -52,7 +52,7 @@ A full-stack ERP platform designed for managing academic workflows including stu
 
 **Tech Stack:** `Django` • `MySQL` • `REST APIs` • `Bootstrap` • `React`
 
----
+
 
 ### 🚗 Distracted Driver Detection System using YOLOv11
 
@@ -62,7 +62,7 @@ Uses bounding boxes and class labels for behavior recognition and monitoring.
 
 **Tech Stack:** `Python` • `YOLOv11` • `OpenCV` • `Roboflow` • `Data Augmentation`
 
----
+
 
 ### 🎓 AspireGuide - AI Career Prediction System
 
