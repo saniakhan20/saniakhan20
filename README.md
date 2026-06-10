@@ -44,6 +44,32 @@ I enjoy turning ideas into working applications and continuously improving my un
 `Git` • `GitHub` • `Django` •`React` •`Bootstrap`
 
 ---
+## 🚀 Few Featured Projects
+
+### 🎓 College ERP System
+
+A full-stack ERP platform designed for managing academic workflows including students, faculty, attendance, marks, fees, and placements with role-based authentication and admin control.
+
+**Tech Stack:** `Django` • `MySQL` • `REST APIs` • `Bootstrap` • `React`
+
+---
+
+### 🚗 Distracted Driver Detection System using YOLOv11
+
+An AI-powered computer vision system that detects and classifies distracted driving behaviors in real time using **YOLOv11**.
+The model was trained on a **Roboflow dataset** with **10 behavior classes** including texting, drinking, yawning, sleeping, and normal driving.
+Uses bounding boxes and class labels for behavior recognition and monitoring.
+
+**Tech Stack:** `Python` • `YOLOv11` • `OpenCV` • `Roboflow` • `Data Augmentation`
+
+---
+
+### 🎓 AspireGuide - AI Career Prediction System
+
+A full-stack machine learning application integrating **ASP.NET MVC** with a **Flask API** to provide AI-based career predictions and recommendations.
+The system processes user input through an ML model and dynamically returns career suggestions.
+
+**Tech Stack:** `ASP.NET MVC` • `C#` • `Flask` • `Python` • `Machine Learning`
 
 ---
 
