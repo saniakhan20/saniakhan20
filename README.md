@@ -45,6 +45,17 @@ I enjoy turning ideas into working applications and continuously improving my un
 
 ---
 
+---
+
+## 📈 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniakhan20&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/saniakhan20" alt="GitHub chart" />
+</p>
 
 
 ## 🌱 Currently Learning  
