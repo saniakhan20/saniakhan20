@@ -66,10 +66,10 @@ Uses bounding boxes and class labels for behavior recognition and monitoring.
 
 ### 🎓 AspireGuide - AI Career Prediction System
 
-A full-stack machine learning application integrating **ASP.NET MVC** with a **Flask API** to provide AI-based career predictions and recommendations.
+A full-stack machine learning application integrating **Flask API** to provide AI-based career predictions and recommendations.
 The system processes user input through an ML model and dynamically returns career suggestions.
 
-**Tech Stack:** `ASP.NET MVC` • `C#` • `Flask` • `Python` • `Machine Learning`
+**Tech Stack:**  `Flask` • `Python` • `Machine Learning`
 
 ---
 
