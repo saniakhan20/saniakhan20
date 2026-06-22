@@ -73,12 +73,6 @@ The system processes user input through an ML model and dynamically returns care
 
 ---
 
-## 📈 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saniakhan20&theme=github" />
-</p>
-
 
 
 ## 🌱 Currently Learning  
